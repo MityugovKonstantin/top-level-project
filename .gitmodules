@@ -1,0 +1,3 @@
+[submodule "low-level-project"]
+	path = low-level-project
+	url = https://github.com/MityugovKonstantin/low-level-project.git
